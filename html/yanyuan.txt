@@ -1,0 +1,52 @@
+<html>
+<head>
+作者：陈先生
+<meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+<meta name="keyword"content="陈鑫吴的个人网站">
+<meta name="author" content="陈鑫吴">
+<title>Chen Private web site</title>
+<link rel="stylesheet" type="text/css" href="css/index.css" >
+</head>
+<body  bgcolor="#F0FFFF">
+        
+        <center>
+                        <div class="head"> <img src="images/a1.ipg" /></div>
+        <div>
+            <!---->
+             
+             <h1>陈鑫吴的个人网站</h1>
+             <div class="page">
+                <div class="nav">
+                <p>
+                <a href="shiren.html" >喜欢的诗人</a>　　　　　　　　
+                <a href="geshou.html" >喜欢的歌手</a>　　　　　　　　
+                <a href="yanyuan.html" >喜欢的演员</a>　　　　　　　　
+                <a href="yundong.html" >喜欢的运动</a>　　　　　　　　
+                </div>
+         </div>
+         <div class="yanxi">
+
+                <h3>演员黄渤</h3>
+                  <p><img src="images/d1.jpg"  width="760" height="515" /></p>
+                  <p>&nbsp;</p>
+                  <p>黄渤，1974年8月26日出生于山东青岛，毕业于北京电影学院，中国内地男演员、导演、歌手、第十届中国电影家协会副主席。</p>
+                  <p><img src="images/d2.jpg"  width="760" height="515" /></p>
+                  <p><br />
+                        2000年，出演电视电影《上车，走吧》；2006年，因出演电影《疯狂的石头》而成名；2009年，凭届《斗牛》获得第46届台湾电影金马奖最佳男主角奖；</p>
+                        <br>
+                        <p><img src="images/d3.jpg"  width="760" height="515" /></p>
+                        <p><br />
+                                2013年，凭借《西游降魔篇》获得第14届华语电影传媒大奖最受瞩目男演员；2016年5月，获得华鼎奖中国百强电视剧最佳男主角奖和全国观众最喜爱的影视明星奖；</p>
+                        <br>
+                        <p><img src="images/d4.jpg"  width="760" height="515" /></p>
+                        <p><br />
+                                12月1日，凭借《一出好戏》获2019爱奇艺尖叫之夜年度银幕导演奖。2019年5月24日，参演的电影《五月天人生无限公司》上映。
+                  </p>
+                </div>
+                
+                
+                </div><div class="foot"><p>制作人：18电子商务二班陈鑫吴</p></div>
+                
+        </center>
+</body>
+</html>
